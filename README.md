@@ -13,10 +13,23 @@
   <img src="https://img.shields.io/badge/Canva-Presentation_Slides-00C4CC.svg"/>
 </a>
 
-## 1. Project Overview
+<div align="justify">
 
-**The Problem.** State the causes as you understand them, who the stakeholders are and briefly mention what similar apps exist in the market (at least one) and why they fall short.  
-**Our Solution.** What it is in 3-4 sentences, then list out your feature-set
+### The Problem
+
+Students often have to balance academic work, part-time jobs, social commitments, errands and personal activities at the same time. The challenge is not always a single overwhelming task, but the cumulative load of multiple manageable commitments happening together. Students may struggle to recognise when their overall schedule is becoming unsustainable and what commitments can be adjusted when they become overloaded. This results in *stress, exhaustion, burnout, procrastination and reduced wellbeing*.
+
+The main causes we identified are *overcommitting to their many tasks, limited awareness of cumulative workload, and difficulty deciding what to move, reduce or postpone*.
+
+*Stakeholders:*
+- *Students* — primary users who manage academic, work, social and personal commitments.
+- *Educational institutions* — interested in supporting sustainable study habits and student wellbeing.
+- *Student organisations and employers* — contribute commitments that students need to balance.
+
+Existing planning applications such as *Sunsama* provide workload-aware daily planning and help users handle overcommitted schedules. However, its workload approach focuses primarily on planned time and workload thresholds, rather than combining workload with students' own stress experiences and helping them explore different ways to rebalance their schedules.
+
+
+</div>
 
 ## 2. Ideation & Process
 
