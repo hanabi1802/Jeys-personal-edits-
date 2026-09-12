@@ -4,8 +4,14 @@
 
 **Team:** Jesslyn Wong Mei Chui, Janet Beh Jing Le, Lee Jean Suen, Wong Jun Hong  
 **Problem Statement:** Stress & Workload Manager  
-**Video Presentation:** [Unlisted Youtube Link]  
-**Presentation Slides:** [Just Dump It Canva](https://canva.link/82w2fdwxvyyn5ws)
+**Video Presentation:** 
+<a href="YOUTUBE_LINK">
+  <img src="https://img.shields.io/badge/YouTube-Video_Presentation-red.svg"/>
+</a><br>
+**Presentation Slides:** 
+<a href="https://canva.link/82w2fdwxvyyn5ws">
+  <img src="https://img.shields.io/badge/Canva-Presentation_Slides-00C4CC.svg"/>
+</a>
 
 ## 1. Project Overview
 
@@ -64,7 +70,10 @@
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Figma Prototype Link](https://www.figma.com/proto/d9tsHy0Ib46HYgi60zU0ey/CodeNection_TeamJeys_FigmaPrototype?node-id=1158-2893&t=tjp0LcGaE0zZyzBj-1&scaling=scale-down&content-scaling=fixed&page-id=762%3A440&starting-point-node-id=1158%3A2893)
+**UI Prototype:**
+<a href="https://www.figma.com/proto/d9tsHy0Ib46HYgi60zU0ey/CodeNection_TeamJeys_FigmaPrototype?node-id=1158-2893&t=tjp0LcGaE0zZyzBj-1&scaling=scale-down&content-scaling=fixed&page-id=762%3A440&starting-point-node-id=1158%3A2893K">
+  <img src="https://img.shields.io/badge/Figma-UI_Prototype-F24E1E.svg"/>
+</a>
 
 ## 4. What Makes It Different
 
