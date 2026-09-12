@@ -15,6 +15,8 @@
 
 <div align="justify">
 
+## 1. Problem Overview
+
 ### The Problem
 
 Students often have to balance academic work, part-time jobs, social commitments, errands and personal activities at the same time. The challenge is not always a single overwhelming task, but the cumulative load of multiple manageable commitments happening together. Students may struggle to recognise when their overall schedule is becoming unsustainable and what commitments can be adjusted when they become overloaded. This results in *stress, exhaustion, burnout, procrastination and reduced wellbeing*.
