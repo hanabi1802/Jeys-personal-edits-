@@ -30,6 +30,20 @@ The main causes we identified are *overcommitting to their many tasks, limited a
 
 Existing planning applications such as *Sunsama* provide workload-aware daily planning and help users handle overcommitted schedules. However, its workload approach focuses primarily on planned time and workload thresholds, rather than combining workload with students' own stress experiences and helping them explore different ways to rebalance their schedules.
 
+### Our Solution
+
+**Just Dump It** is a student-focused workload-management planner designed to help students recognise and manage excessive workload before it becomes overwhelming. It assesses scheduled activities based on their duration, category and effort, while allowing students to record their own stress levels. When a schedule becomes too demanding, the system helps students explore ways to rebalance their commitments rather than simply warning them that they are overloaded. AI supports this process by organising unstructured tasks and suggesting possible schedule reorganisations, while students remain in control of the final changes.
+
+**Feature Set:**
+* Core Planner & Calendar
+* Workload-Aware Planning
+* Stress Check-ins
+* Just Dump It
+* Playground
+* AI Reorganisation Suggestions
+* Workload & Stress Insights
+* Recovery Suggestions
+* Google Calendar Integration
 
 </div>
 
