@@ -1,6 +1,10 @@
+<div align="center">
+  
 # Just Dump It by Jeys
 
 ![Logo](images/just-dump-it-logo.png)
+
+</div>
 
 **Team:** Jesslyn Wong Mei Chui, Janet Beh Jing Le, Lee Jean Suen, Wong Jun Hong  
 **Problem Statement:** Stress & Workload Manager  
