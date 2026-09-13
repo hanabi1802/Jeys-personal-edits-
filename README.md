@@ -5,7 +5,7 @@
 **Team:** Jesslyn Wong Mei Chui, Janet Beh Jing Le, Lee Jean Suen, Wong Jun Hong  
 **Problem Statement:** Stress & Workload Manager  
 **Video Presentation:** 
-<a href="YOUTUBE_LINK">
+<a href="https://youtu.be/6YlUAF7AdU8">
   <img src="https://img.shields.io/badge/YouTube-Video_Presentation-red.svg"/>
 </a><br>
 **Presentation Slides:** 
